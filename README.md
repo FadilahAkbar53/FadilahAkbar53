@@ -1,16 +1,15 @@
-### Hi there 👋
+# Profil Fadilah Akbar
 
-<!--
-**FadilahAkbar53/FadilahAkbar53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Perkenalan Singkat
+Halo! Nama saya Fadilah Akbar, saya mahasiswa kelas 1B D4 jurusan Teknik Informatika.
 
-Here are some ideas to get you started:
+## Teknologi yang Dikuasai
+- HTML
+- CSS
+- DLL (lainnya)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek yang Pernah Dikerjakan
+- Proyek Java OOP (Object-Oriented Programming)
+
+## Cara Menghubungi
+- Email: fadilah.akbar.tif423@polban.ac.id
