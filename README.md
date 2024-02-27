@@ -6,7 +6,7 @@ Halo! Nama saya Fadilah Akbar, saya mahasiswa kelas 1B D4 jurusan Teknik Informa
 ## Teknologi yang Dikuasai
 - HTML
 - CSS
-- DLL (lainnya)
+- java
 
 ## Proyek yang Pernah Dikerjakan
 - Proyek Java OOP (Object-Oriented Programming)
