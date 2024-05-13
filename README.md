@@ -8,7 +8,7 @@
 
 - 👯 I'm on collaborating [Money Tracker](https://github.com/adriannprtm/money-tracking-kelompok-B6)
 
-- 👨‍💻 All of my projects are available at [https://fadilahakbar53.github.io/Portofolio-1/](https://fadilahakbar53.github.io/Portofolio-1/)
+- 👨‍💻 All of my projects are available at [https://fadilahakbar53.github.io/Portofolio-1/](https://fadilahakbar53.github.io/)
 
 - 💬 Ask me about **C,Java**
 
